@@ -1,0 +1,121 @@
+Warning: No display specified.  You will not be able to display graphics on the screen.
+Warning: No window system found.  Java option 'MWT' ignored.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013a (8.1.0.604) 64-bit (glnxa64)
+                             February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> executing gpml startup script...
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/origin] 
+[> In path at 110
+  In addpath at 87
+  In startup at 29] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/util/regular] 
+[> In path at 110
+  In addpath at 87
+  In startup at 40] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/inter] 
+[> In path at 110
+  In addpath at 87
+  In startup at 41] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/hyper] 
+[> In path at 110
+  In addpath at 87
+  In startup at 44] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/hyper/normal] 
+[> In path at 110
+  In addpath at 87
+  In startup at 45] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/hyper/typhoon] 
+[> In path at 110
+  In addpath at 87
+  In startup at 46] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/DL] 
+[> In path at 110
+  In addpath at 87
+  In startup at 50] 
+>> >> Function evaluation      0;  Value 4.630552e+07
+Function evaluation      0;  Value 3.936337e+05
+Function evaluation      0;  Value 5.742775e+07
+Function evaluation      0;  Value 3.947360e+05
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 3.915347e+07
+Function evaluation      0;  Value 3.895019e+05
+Function evaluation      0;  Value 5.411336e+07
+Function evaluation      0;  Value 3.943223e+05
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 4.706830e+07
+Function evaluation      0;  Value 3.957729e+05
+Function evaluation      0;  Value 3.889939e+07
+Function evaluation      0;  Value 3.985616e+05
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 4.757719e+07
+Function evaluation      0;  Value 4.012536e+05
+Function evaluation      0;  Value 4.795151e+07
+Function evaluation      0;  Value 4.070001e+05
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 4.881960e+07
+Function evaluation      0;  Value 3.946468e+05
+Function evaluation      0;  Value 4.035471e+07Function evaluation      8;  Value 2.126023e+07
+Function evaluation      0;  Value 3.976057e+05
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 4.323554e+07
+Function evaluation      0;  Value 3.908567e+05
+Function evaluation      0;  Value 6.814473e+07
+Function evaluation      0;  Value 4.047061e+05
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 3.646021e+07Function evaluation      2;  Value 2.706323e+07
+Function evaluation      0;  Value 3.958460e+05
+Function evaluation      0;  Value 4.029270e+07Function evaluation     16;  Value 2.835696e+07
+Function evaluation      0;  Value 4.040739e+05
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 3.219129e+07
+Function evaluation      0;  Value 3.916150e+05
+Function evaluation      0;  Value 2.824414e+07Function evaluation      8;  Value 1.804843e+07
+Function evaluation      0;  Value 4.040916e+05
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 4.449857e+07
+Function evaluation      0;  Value 3.914667e+05
+Function evaluation      0;  Value 4.961403e+07Function evaluation      6;  Value 3.488144e+07
+Function evaluation      0;  Value 4.018635e+05
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 7.058555e+07
+Function evaluation      0;  Value 3.942277e+05
+Function evaluation      0;  Value 5.267956e+07
+Function evaluation      0;  Value 4.027700e+05
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 8.574440e+07
+Function evaluation      0;  Value 3.963883e+05
+Function evaluation      0;  Value 8.133880e+07
+Function evaluation      0;  Value 3.958064e+05
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 5.902029e+07
+Function evaluation      0;  Value 4.066482e+05
+Function evaluation      0;  Value 6.943115e+07
+Function evaluation      0;  Value 3.928173e+05
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+>> 

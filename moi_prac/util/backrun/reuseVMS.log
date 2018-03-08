@@ -1,0 +1,50 @@
+Warning: No display specified.  You will not be able to display graphics on the screen.
+Warning: No window system found.  Java option 'MWT' ignored.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013a (8.1.0.604) 64-bit (glnxa64)
+                             February 15, 2013
+
+Warning: X does not support locale C
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> executing gpml startup script...
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/origin] 
+[> In path at 110
+  In addpath at 87
+  In startup at 29] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/util/regular] 
+[> In path at 110
+  In addpath at 87
+  In startup at 40] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/inter] 
+[> In path at 110
+  In addpath at 87
+  In startup at 41] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/hyper] 
+[> In path at 110
+  In addpath at 87
+  In startup at 44] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/hyper/normal] 
+[> In path at 110
+  In addpath at 87
+  In startup at 45] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/hyper/typhoon] 
+[> In path at 110
+  In addpath at 87
+  In startup at 46] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/DL] 
+[> In path at 110
+  In addpath at 87
+  In startup at 50] 
+>> >> >> 

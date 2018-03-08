@@ -1,0 +1,17 @@
+No window system found.  Java option 'MWT' ignored.
+{Error using load
+Unable to read file
+'/vol/home/student/miao/code/gpmlmoi_prac/reuse/typhoon/phoenix/smd/ECreg_s_LON0-10LAT10-20stamp70.mat':
+no such file or directory.
+
+Error in time_mult_pca_prod (line 25)
+load(filename_ss);
+
+Error in timeInter (line 18)
+        [u0 u1 x_lat x_lon consum1 inter1 hypu] =
+        time_mult_pca_prod(prefix_p,prefix_s,minlon,minlat,maxlon,maxlat,typeV(1),epoch,samp,stamp);
+        
+Error in InterPhoenixTDP (line 60)
+                    [u0 u1 v0 v1 s0 s1 d0 d1 lat lon consum inter hyp] = ...
+} 
+

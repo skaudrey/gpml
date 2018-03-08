@@ -1,0 +1,153 @@
+Warning: No display specified.  You will not be able to display graphics on the screen.
+Warning: No window system found.  Java option 'MWT' ignored.
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2013 The MathWorks, Inc.
+                    R2013a (8.1.0.604) 64-bit (glnxa64)
+                             February 15, 2013
+
+Warning: X does not support locale C
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> executing gpml startup script...
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/origin] 
+[> In path at 110
+  In addpath at 87
+  In startup at 29] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/util/regular] 
+[> In path at 110
+  In addpath at 87
+  In startup at 40] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/inter] 
+[> In path at 110
+  In addpath at 87
+  In startup at 41] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/hyper] 
+[> In path at 110
+  In addpath at 87
+  In startup at 44] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/hyper/normal] 
+[> In path at 110
+  In addpath at 87
+  In startup at 45] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/hyper/typhoon] 
+[> In path at 110
+  In addpath at 87
+  In startup at 46] 
+[Warning: Name is nonexistent or not a directory:
+/vol/home/student/miao/code/gpml/moi_prac/DL] 
+[> In path at 110
+  In addpath at 87
+  In startup at 50] 
+>> >> Function evaluation      0;  Value 1.861366e+06Function evaluation     32;  Value 1.035819e+06Function evaluation     40;  Value 2.999483e+04Function evaluation     44;  Value 2.778483e+04Function evaluation     46;  Value 2.025511e+04Function evaluation     50;  Value 1.835984e+04Function evaluation     55;  Value 1.741258e+04Function evaluation     59;  Value 1.732940e+04Function evaluation     63;  Value 1.712882e+04Function evaluation     70;  Value 1.701415e+04Function evaluation     73;  Value 1.695383e+04Function evaluation     79;  Value 1.694943e+04Function evaluation     84;  Value 1.694933e+04Function evaluation     87;  Value 1.694868e+04
+Function evaluation      0;  Value 7.247714e+03Function evaluation     16;  Value 5.112146e+02
+Function evaluation      0;  Value 1.861366e+06Function evaluation     32;  Value 1.035819e+06Function evaluation     40;  Value 2.999483e+04Function evaluation     44;  Value 2.778483e+04Function evaluation     46;  Value 2.025511e+04Function evaluation     50;  Value 1.835984e+04Function evaluation     55;  Value 1.741258e+04Function evaluation     59;  Value 1.732940e+04Function evaluation     63;  Value 1.712882e+04Function evaluation     70;  Value 1.701415e+04Function evaluation     73;  Value 1.695383e+04Function evaluation     79;  Value 1.694943e+04Function evaluation     84;  Value 1.694933e+04Function evaluation     87;  Value 1.694868e+04
+Function evaluation      0;  Value 7.215753e+03Function evaluation     33;  Value -3.382162e+02
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 1.759344e+06Function evaluation     18;  Value 9.254262e+04Function evaluation     19;  Value 7.952209e+04Function evaluation     20;  Value 1.923216e+04Function evaluation     25;  Value 1.756842e+04Function evaluation     27;  Value 1.641808e+04Function evaluation     29;  Value 1.588356e+04Function evaluation     32;  Value 1.567928e+04Function evaluation     35;  Value 1.543751e+04Function evaluation     38;  Value 1.534149e+04Function evaluation     42;  Value 1.531972e+04Function evaluation     45;  Value 1.527195e+04Function evaluation     46;  Value 1.526004e+04Function evaluation     48;  Value 1.522683e+04Function evaluation     51;  Value 1.522514e+04Function evaluation     56;  Value 1.521946e+04Function evaluation     59;  Value 1.521676e+04Function evaluation     62;  Value 1.521050e+04Function evaluation     66;  Value 1.520886e+04Function evaluation     72;  Value 1.520440e+04Function evaluation     78;  Value 1.519799e+04Function evaluation     82;  Value 1.519787e+04Function evaluation     83;  Value 1.519775e+04Function evaluation     85;  Value 1.519752e+04Function evaluation     87;  Value 1.519732e+04Function evaluation     91;  Value 1.519541e+04Function evaluation     98;  Value 1.518757e+04
+Function evaluation      0;  Value 7.231662e+03Function evaluation     14;  Value 3.251934e+02Function evaluation     42;  Value -1.188104e+03
+Function evaluation      0;  Value 1.759344e+06Function evaluation     18;  Value 9.254262e+04Function evaluation     19;  Value 7.952209e+04Function evaluation     20;  Value 1.923216e+04Function evaluation     25;  Value 1.756842e+04Function evaluation     27;  Value 1.641808e+04Function evaluation     29;  Value 1.588356e+04Function evaluation     32;  Value 1.567928e+04Function evaluation     35;  Value 1.543751e+04Function evaluation     38;  Value 1.534149e+04Function evaluation     42;  Value 1.531972e+04Function evaluation     45;  Value 1.527195e+04Function evaluation     46;  Value 1.526004e+04Function evaluation     48;  Value 1.522683e+04Function evaluation     51;  Value 1.522514e+04Function evaluation     56;  Value 1.521946e+04Function evaluation     59;  Value 1.521676e+04Function evaluation     62;  Value 1.521050e+04Function evaluation     66;  Value 1.520886e+04Function evaluation     72;  Value 1.520440e+04Function evaluation     78;  Value 1.519799e+04Function evaluation     82;  Value 1.519787e+04Function evaluation     83;  Value 1.519775e+04Function evaluation     85;  Value 1.519752e+04Function evaluation     87;  Value 1.519732e+04Function evaluation     91;  Value 1.519541e+04Function evaluation     98;  Value 1.518757e+04
+Function evaluation      0;  Value 7.215305e+03Function evaluation     29;  Value -1.824501e+02
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 1.773742e+06Function evaluation     28;  Value 4.080239e+05Function evaluation     36;  Value 3.038628e+04Function evaluation     40;  Value 2.260863e+04Function evaluation     42;  Value 1.936493e+04Function evaluation     47;  Value 1.646174e+04Function evaluation     79;  Value 1.625379e+04
+Function evaluation      0;  Value 7.232596e+03Function evaluation     12;  Value 1.944378e+02Function evaluation     39;  Value -7.984223e+02
+Function evaluation      0;  Value 1.773742e+06Function evaluation     28;  Value 4.080239e+05Function evaluation     36;  Value 3.038628e+04Function evaluation     40;  Value 2.260863e+04Function evaluation     42;  Value 1.936493e+04Function evaluation     47;  Value 1.646174e+04Function evaluation     79;  Value 1.625379e+04
+Function evaluation      0;  Value 7.204814e+03Function evaluation     13;  Value -5.733988e+02Function evaluation     52;  Value -2.574779e+03Function evaluation     61;  Value -2.574779e+03Function evaluation     93;  Value -2.733016e+03
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 2.047481e+06Function evaluation     33;  Value 1.318464e+06Function evaluation     42;  Value 2.241774e+04Function evaluation     47;  Value 1.840918e+04Function evaluation     54;  Value 1.647773e+04Function evaluation     56;  Value 1.527808e+04Function evaluation     63;  Value 1.459078e+04Function evaluation     67;  Value 1.450284e+04Function evaluation     75;  Value 1.435464e+04
+Function evaluation      0;  Value 7.256238e+03Function evaluation     19;  Value -6.436379e+02Function evaluation     46;  Value -1.329242e+03
+Function evaluation      0;  Value 2.047481e+06Function evaluation     33;  Value 1.318464e+06Function evaluation     42;  Value 2.241774e+04Function evaluation     47;  Value 1.840918e+04Function evaluation     54;  Value 1.647773e+04Function evaluation     56;  Value 1.527808e+04Function evaluation     63;  Value 1.459078e+04Function evaluation     67;  Value 1.450284e+04Function evaluation     75;  Value 1.435464e+04
+Function evaluation      0;  Value 7.172094e+03Function evaluation     13;  Value -1.080755e+03Function evaluation     39;  Value -3.522961e+03
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 2.335341e+06Function evaluation     33;  Value 1.941862e+06Function evaluation     42;  Value 2.785557e+04Function evaluation     72;  Value 1.921107e+04Function evaluation     73;  Value 1.754176e+04Function evaluation     92;  Value 1.657616e+04Function evaluation     94;  Value 1.571385e+04Function evaluation     95;  Value 1.504253e+04
+Function evaluation      0;  Value 7.303398e+03Function evaluation     13;  Value -9.611967e+01Function evaluation     33;  Value -8.706705e+02
+Function evaluation      0;  Value 2.335341e+06Function evaluation     33;  Value 1.941862e+06Function evaluation     42;  Value 2.785557e+04Function evaluation     72;  Value 1.921107e+04Function evaluation     73;  Value 1.754176e+04Function evaluation     92;  Value 1.657616e+04Function evaluation     94;  Value 1.571385e+04Function evaluation     95;  Value 1.504253e+04
+Function evaluation      0;  Value 7.190763e+03Function evaluation     15;  Value -4.081082e+02Function evaluation     42;  Value -2.256064e+03
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 2.530840e+06Function evaluation     19;  Value 8.832979e+04Function evaluation     29;  Value 8.827999e+04Function evaluation     37;  Value 1.979130e+04Function evaluation     47;  Value 1.863609e+04Function evaluation     49;  Value 1.658063e+04
+Function evaluation      0;  Value 7.322959e+03Function evaluation     29;  Value 2.057472e+02Function evaluation     36;  Value 2.057472e+02Function evaluation     38;  Value 2.057471e+02Function evaluation     44;  Value 2.057469e+02Function evaluation     80;  Value -3.508960e+01Function evaluation     86;  Value -3.508972e+01Function evaluation     93;  Value -3.511643e+01Function evaluation     98;  Value -3.511670e+01
+Function evaluation      0;  Value 2.530840e+06Function evaluation     19;  Value 8.832979e+04Function evaluation     29;  Value 8.827999e+04Function evaluation     37;  Value 1.979130e+04Function evaluation     47;  Value 1.863609e+04Function evaluation     49;  Value 1.658063e+04
+Function evaluation      0;  Value 7.215625e+03Function evaluation     14;  Value -2.545406e+02
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 2.744318e+06Function evaluation     30;  Value 8.108739e+05Function evaluation     38;  Value 1.986203e+04Function evaluation     57;  Value 1.986191e+04Function evaluation     68;  Value 1.869774e+04Function evaluation     71;  Value 1.634022e+04Function evaluation     80;  Value 1.437370e+04Function evaluation     82;  Value 1.368064e+04
+Function evaluation      0;  Value 7.356150e+03Function evaluation     12;  Value 5.499048e+02Function evaluation     51;  Value -1.672252e+03Function evaluation     77;  Value -1.672252e+03
+Function evaluation      0;  Value 2.744318e+06Function evaluation     30;  Value 8.108739e+05Function evaluation     38;  Value 1.986203e+04Function evaluation     57;  Value 1.986191e+04Function evaluation     68;  Value 1.869774e+04Function evaluation     71;  Value 1.634022e+04Function evaluation     80;  Value 1.437370e+04Function evaluation     82;  Value 1.368064e+04
+Function evaluation      0;  Value 7.207055e+03Function evaluation     12;  Value 3.631675e+01Function evaluation     19;  Value -3.421574e+02
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 2.820453e+06Function evaluation     34;  Value 1.945801e+06Function evaluation     37;  Value 1.939004e+06Function evaluation     39;  Value 1.931159e+06Function evaluation     46;  Value 1.951203e+04Function evaluation     54;  Value 1.898345e+04Function evaluation     57;  Value 1.659931e+04Function evaluation     64;  Value 1.562008e+04Function evaluation     84;  Value 1.529107e+04Function evaluation     89;  Value 1.516289e+04
+Function evaluation      0;  Value 7.405377e+03Function evaluation     12;  Value 8.606959e+02
+Function evaluation      0;  Value 2.820453e+06Function evaluation     34;  Value 1.945801e+06Function evaluation     37;  Value 1.939004e+06Function evaluation     39;  Value 1.931159e+06Function evaluation     46;  Value 1.951203e+04Function evaluation     54;  Value 1.898345e+04Function evaluation     57;  Value 1.659931e+04Function evaluation     64;  Value 1.562008e+04Function evaluation     84;  Value 1.529107e+04Function evaluation     89;  Value 1.516289e+04
+Function evaluation      0;  Value 7.180530e+03Function evaluation     12;  Value -4.122166e+01Function evaluation     16;  Value -4.230652e+02Function evaluation     32;  Value -9.891746e+02Function evaluation     46;  Value -9.977082e+02Function evaluation     62;  Value -9.977083e+02Function evaluation     90;  Value -1.001773e+03Function evaluation     97;  Value -1.001795e+03Function evaluation    100;  Value -1.001795e+03
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 2.658659e+06Function evaluation     32;  Value 1.685682e+06Function evaluation     35;  Value 1.681479e+06Function evaluation     37;  Value 1.669623e+06Function evaluation     43;  Value 7.224076e+04Function evaluation     47;  Value 1.971243e+04Function evaluation     51;  Value 1.775106e+04Function evaluation     70;  Value 1.653697e+04Function evaluation     73;  Value 1.548734e+04Function evaluation     79;  Value 1.511132e+04Function evaluation     82;  Value 1.507537e+04Function evaluation     84;  Value 1.505790e+04Function evaluation     86;  Value 1.504959e+04Function evaluation     89;  Value 1.503201e+04Function evaluation     92;  Value 1.499856e+04Function evaluation     94;  Value 1.498039e+04Function evaluation     96;  Value 1.496753e+04Function evaluation     98;  Value 1.496231e+04Function evaluation    100;  Value 1.495245e+04
+Function evaluation      0;  Value 7.480801e+03Function evaluation     11;  Value 2.091982e+03Function evaluation     27;  Value 7.546029e+02Function evaluation     28;  Value 6.585530e+02
+Function evaluation      0;  Value 2.658659e+06Function evaluation     32;  Value 1.685682e+06Function evaluation     35;  Value 1.681479e+06Function evaluation     37;  Value 1.669623e+06Function evaluation     43;  Value 7.224076e+04Function evaluation     47;  Value 1.971243e+04Function evaluation     51;  Value 1.775106e+04Function evaluation     70;  Value 1.653697e+04Function evaluation     73;  Value 1.548734e+04Function evaluation     79;  Value 1.511132e+04Function evaluation     82;  Value 1.507537e+04Function evaluation     84;  Value 1.505790e+04Function evaluation     86;  Value 1.504959e+04Function evaluation     89;  Value 1.503201e+04Function evaluation     92;  Value 1.499856e+04Function evaluation     94;  Value 1.498039e+04Function evaluation     96;  Value 1.496753e+04Function evaluation     98;  Value 1.496231e+04Function evaluation    100;  Value 1.495245e+04
+Function evaluation      0;  Value 7.161576e+03Function evaluation     12;  Value -1.697952e+02
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 2.343062e+06Function evaluation     30;  Value 7.458530e+05Function evaluation     38;  Value 1.931240e+04Function evaluation     43;  Value 1.803302e+04Function evaluation     50;  Value 1.667306e+04Function evaluation     52;  Value 1.611019e+04Function evaluation     54;  Value 1.598520e+04Function evaluation     56;  Value 1.572899e+04Function evaluation     59;  Value 1.571832e+04Function evaluation     61;  Value 1.571059e+04Function evaluation     66;  Value 1.567497e+04Function evaluation     69;  Value 1.559050e+04Function evaluation     70;  Value 1.551161e+04Function evaluation     72;  Value 1.547971e+04Function evaluation     74;  Value 1.547263e+04Function evaluation     76;  Value 1.545962e+04Function evaluation     77;  Value 1.544674e+04Function evaluation     79;  Value 1.543110e+04Function evaluation     81;  Value 1.541365e+04Function evaluation     83;  Value 1.540964e+04Function evaluation     86;  Value 1.540955e+04Function evaluation     88;  Value 1.540950e+04Function evaluation     95;  Value 1.539821e+04Function evaluation     99;  Value 1.539682e+04
+Function evaluation      0;  Value 7.534609e+03Function evaluation     14;  Value 1.287206e+03
+Function evaluation      0;  Value 2.343062e+06Function evaluation     30;  Value 7.458530e+05Function evaluation     38;  Value 1.931240e+04Function evaluation     43;  Value 1.803302e+04Function evaluation     50;  Value 1.667306e+04Function evaluation     52;  Value 1.611019e+04Function evaluation     54;  Value 1.598520e+04Function evaluation     56;  Value 1.572899e+04Function evaluation     59;  Value 1.571832e+04Function evaluation     61;  Value 1.571059e+04Function evaluation     66;  Value 1.567497e+04Function evaluation     69;  Value 1.559050e+04Function evaluation     70;  Value 1.551161e+04Function evaluation     72;  Value 1.547971e+04Function evaluation     74;  Value 1.547263e+04Function evaluation     76;  Value 1.545962e+04Function evaluation     77;  Value 1.544674e+04Function evaluation     79;  Value 1.543110e+04Function evaluation     81;  Value 1.541365e+04Function evaluation     83;  Value 1.540964e+04Function evaluation     86;  Value 1.540955e+04Function evaluation     88;  Value 1.540950e+04Function evaluation     95;  Value 1.539821e+04Function evaluation     99;  Value 1.539682e+04
+Function evaluation      0;  Value 7.218773e+03Function evaluation     38;  Value -6.318859e+02
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 2.374204e+06Function evaluation     30;  Value 8.462693e+05Function evaluation     37;  Value 7.301854e+04Function evaluation     40;  Value 2.101155e+04Function evaluation     46;  Value 1.806123e+04Function evaluation     73;  Value 1.791807e+04Function evaluation     77;  Value 1.739591e+04Function evaluation     99;  Value 1.706724e+04
+Function evaluation      0;  Value 7.552277e+03Function evaluation     38;  Value -1.010670e+03
+Function evaluation      0;  Value 2.374204e+06Function evaluation     30;  Value 8.462693e+05Function evaluation     37;  Value 7.301854e+04Function evaluation     40;  Value 2.101155e+04Function evaluation     46;  Value 1.806123e+04Function evaluation     73;  Value 1.791807e+04Function evaluation     77;  Value 1.739591e+04Function evaluation     99;  Value 1.706724e+04
+Function evaluation      0;  Value 7.433592e+03Function evaluation     14;  Value 1.447228e+03Function evaluation     47;  Value 1.179380e+03Function evaluation     53;  Value 1.179183e+03Function evaluation     55;  Value 1.177543e+03Function evaluation     66;  Value 1.174295e+03Function evaluation     69;  Value 1.173342e+03Function evaluation     84;  Value 1.173273e+03Function evaluation     94;  Value 1.172668e+03Function evaluation     98;  Value 1.172664e+03
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 2.837393e+06Function evaluation     21;  Value 8.524849e+04Function evaluation     32;  Value 8.491086e+04Function evaluation     39;  Value 2.037562e+04Function evaluation     41;  Value 1.838456e+04Function evaluation     62;  Value 1.761031e+04Function evaluation     71;  Value 1.702525e+04Function evaluation     73;  Value 1.702218e+04
+Function evaluation      0;  Value 7.657875e+03Function evaluation     14;  Value 2.589215e+03
+Function evaluation      0;  Value 2.837393e+06Function evaluation     21;  Value 8.524849e+04Function evaluation     32;  Value 8.491086e+04Function evaluation     39;  Value 2.037562e+04Function evaluation     41;  Value 1.838456e+04Function evaluation     62;  Value 1.761031e+04Function evaluation     71;  Value 1.702525e+04Function evaluation     73;  Value 1.702218e+04
+Function evaluation      0;  Value 7.440824e+03Function evaluation     15;  Value 2.142576e+03Function evaluation     52;  Value 1.172509e+03Function evaluation     61;  Value 1.172509e+03
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 3.238438e+06Function evaluation     17;  Value 5.279418e+04Function evaluation     25;  Value 5.272109e+04Function evaluation     32;  Value 1.968904e+04Function evaluation     35;  Value 1.810038e+04Function evaluation     41;  Value 1.546255e+04Function evaluation     59;  Value 1.527311e+04Function evaluation     91;  Value 1.514620e+04
+Function evaluation      0;  Value 7.614538e+03Function evaluation     10;  Value 3.294412e+03Function evaluation     11;  Value 2.031959e+03Function evaluation     28;  Value 1.007111e+03
+Function evaluation      0;  Value 3.238438e+06Function evaluation     17;  Value 5.279418e+04Function evaluation     25;  Value 5.272109e+04Function evaluation     32;  Value 1.968904e+04Function evaluation     35;  Value 1.810038e+04Function evaluation     41;  Value 1.546255e+04Function evaluation     59;  Value 1.527311e+04Function evaluation     91;  Value 1.514620e+04
+Function evaluation      0;  Value 7.368284e+03Function evaluation     14;  Value 2.047942e+03Function evaluation     31;  Value 6.156600e+02Function evaluation     49;  Value 6.156600e+02Function evaluation     76;  Value 5.604404e+02Function evaluation     79;  Value 5.604398e+02Function evaluation     81;  Value 5.604382e+02Function evaluation     85;  Value 5.604378e+02
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 3.820952e+06Function evaluation     17;  Value 9.980962e+04Function evaluation     25;  Value 9.952184e+04Function evaluation     32;  Value 2.092188e+04Function evaluation     35;  Value 1.735199e+04Function evaluation     38;  Value 1.726004e+04Function evaluation     45;  Value 1.590390e+04Function evaluation     49;  Value 1.553993e+04Function evaluation     69;  Value 1.553811e+04Function evaluation     75;  Value 1.551700e+04Function evaluation     88;  Value 1.548759e+04Function evaluation     93;  Value 1.466154e+04Function evaluation     94;  Value 1.443217e+04Function evaluation     97;  Value 1.438260e+04
+Function evaluation      0;  Value 7.518110e+03Function evaluation     13;  Value 7.596484e+02Function evaluation     39;  Value 4.451441e+02
+Function evaluation      0;  Value 3.820952e+06Function evaluation     17;  Value 9.980962e+04Function evaluation     25;  Value 9.952184e+04Function evaluation     32;  Value 2.092188e+04Function evaluation     35;  Value 1.735199e+04Function evaluation     38;  Value 1.726004e+04Function evaluation     45;  Value 1.590390e+04Function evaluation     49;  Value 1.553993e+04Function evaluation     69;  Value 1.553811e+04Function evaluation     75;  Value 1.551700e+04Function evaluation     88;  Value 1.548759e+04Function evaluation     93;  Value 1.466154e+04Function evaluation     94;  Value 1.443217e+04Function evaluation     97;  Value 1.438260e+04
+Function evaluation      0;  Value 7.224710e+03Function evaluation     12;  Value 7.309536e+01Function evaluation     52;  Value -1.616367e+03Function evaluation     60;  Value -1.616367e+03
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 4.447691e+06Function evaluation     17;  Value 1.829996e+05Function evaluation     26;  Value 1.819667e+05Function evaluation     33;  Value 1.892852e+04Function evaluation     69;  Value 1.716589e+04
+Function evaluation      0;  Value 7.456412e+03Function evaluation     12;  Value 1.177002e+03
+Function evaluation      0;  Value 4.447691e+06Function evaluation     17;  Value 1.829996e+05Function evaluation     26;  Value 1.819667e+05Function evaluation     33;  Value 1.892852e+04Function evaluation     69;  Value 1.716589e+04
+Function evaluation      0;  Value 7.171367e+03Function evaluation     16;  Value -4.489772e+02Function evaluation     52;  Value -2.094054e+03Function evaluation     61;  Value -2.094054e+03Function evaluation     66;  Value -2.094054e+03
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 4.861221e+06Function evaluation     17;  Value 2.896499e+05Function evaluation     21;  Value 2.636050e+05Function evaluation     23;  Value 1.932404e+04Function evaluation     42;  Value 1.932324e+04Function evaluation     52;  Value 1.670391e+04Function evaluation     56;  Value 1.615939e+04Function evaluation     62;  Value 1.613726e+04Function evaluation     71;  Value 1.557720e+04Function evaluation     79;  Value 1.411939e+04Function evaluation     83;  Value 1.367454e+04
+Function evaluation      0;  Value 7.413539e+03Function evaluation     13;  Value 2.887459e+01Function evaluation     33;  Value -3.530829e+02Function evaluation     46;  Value -3.271735e+03Function evaluation     51;  Value -3.319568e+03Function evaluation     69;  Value -3.694963e+03Function evaluation     81;  Value -3.694963e+03Function evaluation     91;  Value -3.723025e+03
+Function evaluation      0;  Value 4.861221e+06Function evaluation     17;  Value 2.896499e+05Function evaluation     21;  Value 2.636050e+05Function evaluation     23;  Value 1.932404e+04Function evaluation     42;  Value 1.932324e+04Function evaluation     52;  Value 1.670391e+04Function evaluation     56;  Value 1.615939e+04Function evaluation     62;  Value 1.613726e+04Function evaluation     71;  Value 1.557720e+04Function evaluation     79;  Value 1.411939e+04Function evaluation     83;  Value 1.367454e+04
+Function evaluation      0;  Value 7.198986e+03Function evaluation     13;  Value -1.495552e+03
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 4.830845e+06Function evaluation     32;  Value 1.497418e+06Function evaluation     40;  Value 1.916659e+04Function evaluation     53;  Value 1.789111e+04Function evaluation     57;  Value 1.597730e+04Function evaluation     89;  Value 1.515083e+04
+Function evaluation      0;  Value 7.364842e+03Function evaluation     12;  Value -5.665303e+02Function evaluation     49;  Value -1.879611e+03Function evaluation     56;  Value -1.879611e+03
+Function evaluation      0;  Value 4.830845e+06Function evaluation     32;  Value 1.497418e+06Function evaluation     40;  Value 1.916659e+04Function evaluation     53;  Value 1.789111e+04Function evaluation     57;  Value 1.597730e+04Function evaluation     89;  Value 1.515083e+04
+Function evaluation      0;  Value 7.279432e+03Function evaluation     14;  Value -6.042425e+02
+------------- mat pca sum done ----------------
+------------- spline done ----------------
+Function evaluation      0;  Value 4.527279e+06Function evaluation     38;  Value 4.026267e+06Function evaluation     47;  Value 7.975768e+04Function evaluation     52;  Value 7.659294e+04Function evaluation     57;  Value 2.107391e+04Function evaluation     69;  Value 1.780424e+04Function evaluation     93;  Value 1.620991e+04
+Function evaluation      0;  Value 7.358031e+03Function evaluation     11;  Value 1.133608e+03Function evaluation     29;  Value -2.826963e+02Function evaluation     56;  Value -2.826963e+02

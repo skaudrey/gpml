@@ -1,0 +1,12 @@
+No window system found.  Java option 'MWT' ignored.
+{Error using reuse_mult
+Too many output arguments.
+
+Error in reuseMultInter (line 18)
+        [u0 u1 x_lat x_lon consum1 inter1 ] =
+        reuse_mult(prefix_s,minlon,minlat,maxlon,maxlat,typeV(1),samp,stamp,hypu);
+        
+Error in reuseMPNG (line 68)
+                [u0 u1 v0 v1 s0 s1 d0 d1 lat lon consum inter] = ...
+} 
+

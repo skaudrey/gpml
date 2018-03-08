@@ -1,0 +1,14 @@
+No window system found.  Java option 'MWT' ignored.
+{Error using load
+Unable to read file
+'/vol/home/student/miao/code/gpml/moi_prac/reuse/normalday/vms/space/time4/Inter_mpng_space.mat':
+no such file or directory.
+
+Error in getMeanHyperOfVMS (line 22)
+           s = load([normpath1 f_space]);
+
+Error in reuseVMS (line 38)
+  [hypu,hypv] = getMeanHyperOfVMS(typeD,1);    %get the mean hyper of space and
+  time interpolation
+} 
+

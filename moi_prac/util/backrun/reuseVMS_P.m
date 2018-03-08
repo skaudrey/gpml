@@ -1,0 +1,5 @@
+cd ../../../
+
+startup
+
+reuseVMS
