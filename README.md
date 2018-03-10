@@ -9,7 +9,7 @@ which could extract multi-scale dependencies of weather process.
 Copyright (c) by Carl Edward Rasmussen and Hannes Nickisch, 2016-10-19.
 
 #  details
-Most of this part is come from Carl Edward's README.md
+Most of this part comes from Carl Edward's README
 
 There are 8 code subdirectories: moi_prac, cov, doc, inf, lik, mean, prior and util.
 
